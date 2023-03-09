@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[595],{8595:(e,a,n)=>{function s(e){return`<div class="selection-main" hchange>\n            <div class="number">${e}</div>\n           <button data-role="delete">  <i class="fa-solid fa-trash-arrow-up" data-role="delete"></i> </button>\n</div>`}n.r(a),n.d(a,{HTML:()=>s})}}]);
